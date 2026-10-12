@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T13:31:12.502Z",
+  "generated": "2026-10-12T15:28:02.411Z",
   "events": [
     {
       "src": "youtube:ajMlhHjt3gk",
@@ -412,7 +412,7 @@
         "kind": "yt",
         "id": "6djZKYdz5ig"
       },
-      "views": 2544775,
+      "views": 2545606,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -428,7 +428,7 @@
         "kind": "yt",
         "id": "tFWuq28dkYs"
       },
-      "views": 399909,
+      "views": 399977,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -444,7 +444,7 @@
         "kind": "yt",
         "id": "A0htXxbbq84"
       },
-      "views": 643924,
+      "views": 644211,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -455,12 +455,12 @@
       "title": "Joe Rogan Experience #2385 - Rick Strassman",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 826K views at last sync.",
+      "note": "Episode release · 827K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "qxj8M4ewjS0"
       },
-      "views": 826059,
+      "views": 826549,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -471,12 +471,12 @@
       "title": "Joe Rogan Experience #2386 - The Red Clay Strays",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 674K views at last sync.",
+      "note": "Episode release · 675K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "ImyXm4Oag5M"
       },
-      "views": 674108,
+      "views": 675144,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -492,7 +492,7 @@
         "kind": "yt",
         "id": "J3Wqw8Az7TA"
       },
-      "views": 1864371,
+      "views": 1874442,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -508,7 +508,7 @@
         "kind": "yt",
         "id": "MiDNZJgnRRQ"
       },
-      "views": 800023,
+      "views": 800282,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -519,12 +519,12 @@
       "title": "JRE MMA Show #170 with Michael \"Venom\" Page",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 807K views at last sync.",
+      "note": "Episode release · 808K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "5Er_88yJov4"
       },
-      "views": 807337,
+      "views": 807774,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -540,7 +540,7 @@
         "kind": "yt",
         "id": "J4gQ7k6meHs"
       },
-      "views": 922751,
+      "views": 923326,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -556,7 +556,7 @@
         "kind": "yt",
         "id": "mpVrOM66khc"
       },
-      "views": 604787,
+      "views": 605007,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -572,7 +572,7 @@
         "kind": "yt",
         "id": "idMttGtm76M"
       },
-      "views": 1213828,
+      "views": 1214429,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -583,12 +583,12 @@
       "title": "Joe Rogan Experience #2392 - John Kiriakou",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 11.3M views at last sync.",
+      "note": "Episode release · 11.4M views at last sync.",
       "video": {
         "kind": "yt",
         "id": "TZqADzuu73g"
       },
-      "views": 11269106,
+      "views": 11354900,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -599,12 +599,12 @@
       "title": "Joe Rogan Experience #2393 - Bryan Callen",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 808K views at last sync.",
+      "note": "Episode release · 809K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "TvuQr0g5oXI"
       },
-      "views": 808409,
+      "views": 809188,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -620,7 +620,7 @@
         "kind": "yt",
         "id": "-9LFj6YOK2U"
       },
-      "views": 2279470,
+      "views": 2285381,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -631,12 +631,12 @@
       "title": "Joe Rogan Experience #2395 - Mariana van Zeller",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 972K views at last sync.",
+      "note": "Episode release · 974K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "5P4Mu4X_zk4"
       },
-      "views": 972374,
+      "views": 974086,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -652,7 +652,7 @@
         "kind": "yt",
         "id": "ko5htRmVIrU"
       },
-      "views": 2032249,
+      "views": 2033235,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -668,7 +668,7 @@
         "kind": "yt",
         "id": "Zt32chvO_iY"
       },
-      "views": 1149389,
+      "views": 1149748,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -684,7 +684,7 @@
         "kind": "yt",
         "id": "0sdLHGb5Wzs"
       },
-      "views": 1561930,
+      "views": 1562230,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -695,12 +695,12 @@
       "title": "Joe Rogan Experience #2399 - Daryl Davis & Jeff Schoep",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 654K views at last sync.",
+      "note": "Episode release · 655K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "HwpYMYnAsz4"
       },
-      "views": 654475,
+      "views": 654798,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -711,12 +711,12 @@
       "title": "Joe Rogan Experience #2400 - Katee Sackhoff",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 840K views at last sync.",
+      "note": "Episode release · 841K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "TZu7jymfHrU"
       },
-      "views": 840218,
+      "views": 840606,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -732,7 +732,7 @@
         "kind": "yt",
         "id": "EaAun27gftk"
       },
-      "views": 2284502,
+      "views": 2285684,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -743,12 +743,12 @@
       "title": "Joe Rogan Experience #2402 - Miranda Lambert",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 694K views at last sync.",
+      "note": "Episode release · 695K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "oTwB8R6qmm8"
       },
-      "views": 693770,
+      "views": 694613,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -759,12 +759,12 @@
       "title": "Joe Rogan Experience #2403 - Andrew Gallimore",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 718K views at last sync.",
+      "note": "Episode release · 719K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "IErO3RuGTXE"
       },
-      "views": 717940,
+      "views": 718766,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -780,7 +780,7 @@
         "kind": "yt",
         "id": "O4wBUysNe2k"
       },
-      "views": 12375740,
+      "views": 12402956,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -791,12 +791,12 @@
       "title": "Joe Rogan Experience #2405 - Luis J Gomez & Big Jay Oakerson",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 869K views at last sync.",
+      "note": "Episode release · 870K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "J1WyFLHPqro"
       },
-      "views": 869318,
+      "views": 869706,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -812,7 +812,7 @@
         "kind": "yt",
         "id": "P4G2KGEkSyI"
       },
-      "views": 2170008,
+      "views": 2171391,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -828,7 +828,7 @@
         "kind": "yt",
         "id": "0loSsJ1mHVE"
       },
-      "views": 3014428,
+      "views": 3018379,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -844,7 +844,7 @@
         "kind": "yt",
         "id": "gXbsq5nVmT0"
       },
-      "views": 1821191,
+      "views": 1821787,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -860,7 +860,7 @@
         "kind": "yt",
         "id": "_5tIELL-2XQ"
       },
-      "views": 934198,
+      "views": 934494,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -876,7 +876,7 @@
         "kind": "yt",
         "id": "AXez6WQzvEU"
       },
-      "views": 664894,
+      "views": 665318,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -892,7 +892,7 @@
         "kind": "yt",
         "id": "u04t4fkBIeM"
       },
-      "views": 1032837,
+      "views": 1033397,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -908,7 +908,7 @@
         "kind": "yt",
         "id": "mzSapYmzA_g"
       },
-      "views": 1450644,
+      "views": 1452007,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -924,7 +924,7 @@
         "kind": "yt",
         "id": "OOUc_0-oKRE"
       },
-      "views": 5211076,
+      "views": 5215677,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -940,7 +940,7 @@
         "kind": "yt",
         "id": "FM463bp-UdM"
       },
-      "views": 414253,
+      "views": 414341,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -951,12 +951,12 @@
       "title": "Joe Rogan Experience #2415 - Adam Ray",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 894K views at last sync.",
+      "note": "Episode release · 895K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "Z-MIlZvjpus"
       },
-      "views": 894276,
+      "views": 894656,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -972,7 +972,7 @@
         "kind": "yt",
         "id": "NSFaaq3vhfY"
       },
-      "views": 2134267,
+      "views": 2139314,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -988,7 +988,7 @@
         "kind": "yt",
         "id": "dzdblMCp5a4"
       },
-      "views": 2054236,
+      "views": 2059650,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1004,7 +1004,7 @@
         "kind": "yt",
         "id": "F8qxwts_bE4"
       },
-      "views": 1511050,
+      "views": 1511598,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1015,12 +1015,12 @@
       "title": "Joe Rogan Experience #2419 - John Lisle",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 932K views at last sync.",
+      "note": "Episode release · 933K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "ZrUQdGi0HF8"
       },
-      "views": 931684,
+      "views": 933228,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1031,12 +1031,12 @@
       "title": "Joe Rogan Experience #2420 - Chris Masterjohn",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 690K views at last sync.",
+      "note": "Episode release · 691K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "QBn54YNnKD0"
       },
-      "views": 690456,
+      "views": 690961,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1052,7 +1052,7 @@
         "kind": "yt",
         "id": "yxpoZNMQcdU"
       },
-      "views": 788035,
+      "views": 788400,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1068,7 +1068,7 @@
         "kind": "yt",
         "id": "3hptKYix4X8"
       },
-      "views": 3566835,
+      "views": 3573582,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1084,7 +1084,7 @@
         "kind": "yt",
         "id": "sJ4Ho4ccuFg"
       },
-      "views": 3994305,
+      "views": 3999700,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1095,12 +1095,12 @@
       "title": "JRE MMA Show #171 with Brendan Allen",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 403K views at last sync.",
+      "note": "Episode release · 404K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "Qv40NUnRnZo"
       },
-      "views": 403347,
+      "views": 403736,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1116,7 +1116,7 @@
         "kind": "yt",
         "id": "UWz6_CXt5T8"
       },
-      "views": 2108951,
+      "views": 2110142,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1132,7 +1132,7 @@
         "kind": "yt",
         "id": "yTLPVl0y1v4"
       },
-      "views": 1547137,
+      "views": 1547936,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1143,12 +1143,12 @@
       "title": "Joe Rogan Experience #2426 - Cameron Hanes & Adam Greentree",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 719K views at last sync.",
+      "note": "Episode release · 720K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "bdhaUe6dhvM"
       },
-      "views": 718827,
+      "views": 719659,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1164,7 +1164,7 @@
         "kind": "yt",
         "id": "WX_te6X-0aQ"
       },
-      "views": 1107976,
+      "views": 1108648,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1180,7 +1180,7 @@
         "kind": "yt",
         "id": "shmDI4tMeuo"
       },
-      "views": 1366754,
+      "views": 1370719,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1196,7 +1196,7 @@
         "kind": "yt",
         "id": "P038Pd440bo"
       },
-      "views": 1291763,
+      "views": 1292461,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1212,7 +1212,7 @@
         "kind": "yt",
         "id": "Xr0jaqT8eRs"
       },
-      "views": 1227116,
+      "views": 1229197,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1228,7 +1228,7 @@
         "kind": "yt",
         "id": "fFn4z3M6c6w"
       },
-      "views": 6455982,
+      "views": 6473567,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1244,7 +1244,7 @@
         "kind": "yt",
         "id": "FuHM2DQTnZk"
       },
-      "views": 436766,
+      "views": 436939,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1260,7 +1260,7 @@
         "kind": "yt",
         "id": "jjqV55VWoxA"
       },
-      "views": 1084982,
+      "views": 1085270,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1271,12 +1271,12 @@
       "title": "JRE MMA Show #172 with Gable Steveson",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 631K views at last sync.",
+      "note": "Episode release · 632K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "OSSMN41FoaE"
       },
-      "views": 631437,
+      "views": 631839,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1292,7 +1292,7 @@
         "kind": "yt",
         "id": "LIhkYiYLON0"
       },
-      "views": 1561450,
+      "views": 1562326,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1308,7 +1308,7 @@
         "kind": "yt",
         "id": "slYfiSb5AX4"
       },
-      "views": 2265618,
+      "views": 2267196,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1324,7 +1324,7 @@
         "kind": "yt",
         "id": "lwgJhmsQz0U"
       },
-      "views": 955686,
+      "views": 956474,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1340,7 +1340,7 @@
         "kind": "yt",
         "id": "koSIQ-ASW8k"
       },
-      "views": 1524557,
+      "views": 1525198,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1356,7 +1356,7 @@
         "kind": "yt",
         "id": "acbD70wFTuc"
       },
-      "views": 553829,
+      "views": 554351,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1372,7 +1372,7 @@
         "kind": "yt",
         "id": "-X8xwrKdFOg"
       },
-      "views": 2762181,
+      "views": 2764054,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1388,7 +1388,7 @@
         "kind": "yt",
         "id": "AVEZBy1uAk8"
       },
-      "views": 6916049,
+      "views": 6935711,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1404,7 +1404,7 @@
         "kind": "yt",
         "id": "EoFniMSMj08"
       },
-      "views": 1867378,
+      "views": 1878139,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1420,7 +1420,7 @@
         "kind": "yt",
         "id": "ptyq6CITuyM"
       },
-      "views": 391580,
+      "views": 392300,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1436,7 +1436,7 @@
         "kind": "yt",
         "id": "BQcDB1S3ifM"
       },
-      "views": 460108,
+      "views": 460313,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1452,7 +1452,7 @@
         "kind": "yt",
         "id": "bhaz6vd4nSI"
       },
-      "views": 1691711,
+      "views": 1694404,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1468,7 +1468,7 @@
         "kind": "yt",
         "id": "0-Jalhl4CEE"
       },
-      "views": 2437953,
+      "views": 2438818,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1484,7 +1484,7 @@
         "kind": "yt",
         "id": "gYcuTY7tnvk"
       },
-      "views": 1310072,
+      "views": 1310717,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1500,7 +1500,7 @@
         "kind": "yt",
         "id": "IbhDeUcZ_iw"
       },
-      "views": 806978,
+      "views": 807181,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1516,7 +1516,7 @@
         "kind": "yt",
         "id": "MkqDA9W4Vo0"
       },
-      "views": 1235517,
+      "views": 1235981,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1532,7 +1532,7 @@
         "kind": "yt",
         "id": "Dnon-AsWnOQ"
       },
-      "views": 642023,
+      "views": 642232,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1543,12 +1543,12 @@
       "title": "Joe Rogan Experience #2449 - Raul Bilecky",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 897K views at last sync.",
+      "note": "Episode release · 898K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "BvhFuEp55X0"
       },
-      "views": 896886,
+      "views": 898311,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1564,7 +1564,7 @@
         "kind": "yt",
         "id": "UPfN2G0RyQM"
       },
-      "views": 590551,
+      "views": 590852,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1575,12 +1575,12 @@
       "title": "Joe Rogan Experience #2451 - Cheryl Hines",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 825K views at last sync.",
+      "note": "Episode release · 826K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "0sMrvv53e9Y"
       },
-      "views": 825411,
+      "views": 825828,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1596,7 +1596,7 @@
         "kind": "yt",
         "id": "CH5JoJ_-hic"
       },
-      "views": 1164560,
+      "views": 1165809,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1612,7 +1612,7 @@
         "kind": "yt",
         "id": "y2SD_z61FRo"
       },
-      "views": 702056,
+      "views": 702357,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1628,7 +1628,7 @@
         "kind": "yt",
         "id": "qFwiXyZHYbU"
       },
-      "views": 1028985,
+      "views": 1029636,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1644,7 +1644,7 @@
         "kind": "yt",
         "id": "f_neykptZPY"
       },
-      "views": 618737,
+      "views": 618990,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1660,7 +1660,7 @@
         "kind": "yt",
         "id": "Sbh7ymCkjuM"
       },
-      "views": 1232498,
+      "views": 1235029,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1676,7 +1676,7 @@
         "kind": "yt",
         "id": "lin3c35IyB0"
       },
-      "views": 1023778,
+      "views": 1024222,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1692,7 +1692,7 @@
         "kind": "yt",
         "id": "4lmiRzROTZg"
       },
-      "views": 1897056,
+      "views": 1898982,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1708,7 +1708,7 @@
         "kind": "yt",
         "id": "ZyG8FSeTFKA"
       },
-      "views": 1218883,
+      "views": 1219374,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1724,7 +1724,7 @@
         "kind": "yt",
         "id": "huJVFuLmpd0"
       },
-      "views": 1176929,
+      "views": 1178323,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1740,7 +1740,7 @@
         "kind": "yt",
         "id": "avY3bV5yxMM"
       },
-      "views": 1860470,
+      "views": 1863660,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1756,25 +1756,9 @@
         "kind": "yt",
         "id": "wk7DQom821s"
       },
-      "views": 1790613,
+      "views": 1791885,
       "ticket": null,
       "flag": "auto",
-      "firstSeen": "2025-01-01"
-    },
-    {
-      "src": "wikipedia:ufc-fight-night-moreno-vs-kavanagh",
-      "date": "2026-02-28",
-      "title": "UFC Fight Night: Moreno vs. Kavanagh",
-      "loc": "Arena CDMX, Mexico City, Mexico",
-      "type": "broadcast",
-      "note": "International card — historically not one he calls.",
-      "video": null,
-      "ticket": null,
-      "flag": "unconfirmed",
-      "box": {
-        "attendance": 16454,
-        "gate": null
-      },
       "firstSeen": "2025-01-01"
     },
     {
@@ -1783,12 +1767,12 @@
       "title": "Joe Rogan Experience #2462 - Aaron Siri",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 677K views at last sync.",
+      "note": "Episode release · 678K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "vNkXIKijzcg"
       },
-      "views": 677441,
+      "views": 678090,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1804,7 +1788,7 @@
         "kind": "yt",
         "id": "XL1igZYP8T8"
       },
-      "views": 1172592,
+      "views": 1173386,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1820,7 +1804,7 @@
         "kind": "yt",
         "id": "va8-X78sxZk"
       },
-      "views": 1196573,
+      "views": 1198169,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1831,12 +1815,12 @@
       "title": "JRE MMA Show #175 with Shakur Stevenson",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 581K views at last sync.",
+      "note": "Episode release · 582K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "6VFZlIwwRKc"
       },
-      "views": 581067,
+      "views": 581885,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1868,7 +1852,7 @@
         "kind": "yt",
         "id": "7ph99mEQrTY"
       },
-      "views": 879947,
+      "views": 880381,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1884,7 +1868,7 @@
         "kind": "yt",
         "id": "zm1Ar5HckwA"
       },
-      "views": 1502966,
+      "views": 1503686,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1895,12 +1879,12 @@
       "title": "Joe Rogan Experience #2467 - Michael Pollan",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 884K views at last sync.",
+      "note": "Episode release · 885K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "5QQun2pDQEs"
       },
-      "views": 883601,
+      "views": 884758,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1916,7 +1900,7 @@
         "kind": "yt",
         "id": "I3xg_pQj-4M"
       },
-      "views": 1032157,
+      "views": 1033225,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1944,7 +1928,7 @@
         "kind": "yt",
         "id": "gqhGi1-816U"
       },
-      "views": 2555205,
+      "views": 2561249,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1955,12 +1939,12 @@
       "title": "Joe Rogan Experience #2469 - Brigham Buhler",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 413K views at last sync.",
+      "note": "Episode release · 414K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "gU6yFAeDsJ0"
       },
-      "views": 413301,
+      "views": 413830,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1976,7 +1960,7 @@
         "kind": "yt",
         "id": "JtbGgSwuE_U"
       },
-      "views": 2985791,
+      "views": 2986759,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -1992,7 +1976,7 @@
         "kind": "yt",
         "id": "-nrkCLQ2l9Q"
       },
-      "views": 1669385,
+      "views": 1670486,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2019,12 +2003,12 @@
       "title": "JRE Fight Companion - March 21, 2026",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 736K views at last sync.",
+      "note": "Episode release · 738K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "XGH900y0N-M"
       },
-      "views": 735510,
+      "views": 737512,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2035,12 +2019,12 @@
       "title": "Joe Rogan Experience #2472 - Jeff Ross",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 648K views at last sync.",
+      "note": "Episode release · 649K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "7s_XJ5fonGI"
       },
-      "views": 648480,
+      "views": 648754,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2051,12 +2035,12 @@
       "title": "Joe Rogan Experience #2473 - Bill Thompson",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 495K views at last sync.",
+      "note": "Episode release · 496K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "UlRHECIUNng"
       },
-      "views": 495324,
+      "views": 495774,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2072,7 +2056,7 @@
         "kind": "yt",
         "id": "JUePtc0bJSE"
       },
-      "views": 1756749,
+      "views": 1757673,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2083,12 +2067,12 @@
       "title": "Joe Rogan Experience #2475 - Andrew Jarecki",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 587K views at last sync.",
+      "note": "Episode release · 589K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "9uhx6ApHD-8"
       },
-      "views": 587400,
+      "views": 588521,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2115,12 +2099,12 @@
       "title": "Joe Rogan Experience #2476 - Shanna H. Swan",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 527K views at last sync.",
+      "note": "Episode release · 528K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "c-313sIpL_0"
       },
-      "views": 527389,
+      "views": 527841,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2131,12 +2115,12 @@
       "title": "Joe Rogan Experience #2477 - Rick Perry & W. Bryan Hubbard",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 560K views at last sync.",
+      "note": "Episode release · 561K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "JIArjzI3gas"
       },
-      "views": 560118,
+      "views": 560741,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2152,7 +2136,7 @@
         "kind": "yt",
         "id": "wRJ2N8qBPs0"
       },
-      "views": 4003865,
+      "views": 4013947,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2168,7 +2152,7 @@
         "kind": "yt",
         "id": "Lb_1d68vx-g"
       },
-      "views": 8083107,
+      "views": 8111621,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2191,12 +2175,12 @@
       "title": "Joe Rogan Experience #2480 - Arsenio Hall",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 896K views at last sync.",
+      "note": "Episode release · 897K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "FtbcMT31Wkc"
       },
-      "views": 896129,
+      "views": 896559,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2212,7 +2196,7 @@
         "kind": "yt",
         "id": "vrRJimixWEc"
       },
-      "views": 1739066,
+      "views": 1740525,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2223,12 +2207,12 @@
       "title": "JRE MMA Show #177 - Protect Ya Neck",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 626K views at last sync.",
+      "note": "Episode release · 627K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "aYt_2KoP4v4"
       },
-      "views": 626278,
+      "views": 626630,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2255,12 +2239,12 @@
       "title": "Joe Rogan Experience #2482 - Andy Stumpf",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 679K views at last sync.",
+      "note": "Episode release · 680K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "qrKuqmJmz0Q"
       },
-      "views": 679178,
+      "views": 680116,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2276,7 +2260,7 @@
         "kind": "yt",
         "id": "pDfm9RaIIv4"
       },
-      "views": 1629034,
+      "views": 1629672,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2287,12 +2271,12 @@
       "title": "Joe Rogan Experience #2484 - David Cross",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 731K views at last sync.",
+      "note": "Episode release · 732K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "efJ1-q3XxVc"
       },
-      "views": 731080,
+      "views": 731555,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2303,12 +2287,12 @@
       "title": "Joe Rogan Experience #2485 - John Fogerty",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 935K views at last sync.",
+      "note": "Episode release · 936K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "hpLAqYQVb68"
       },
-      "views": 934760,
+      "views": 935684,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2340,7 +2324,7 @@
         "kind": "yt",
         "id": "k2D-xNI7XgY"
       },
-      "views": 592553,
+      "views": 593053,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2351,12 +2335,12 @@
       "title": "Joe Rogan Experience #2487 - Action Bronson",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 801K views at last sync.",
+      "note": "Episode release · 803K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "cIUpO1sNY3A"
       },
-      "views": 801484,
+      "views": 802589,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2367,12 +2351,12 @@
       "title": "Joe Rogan Experience #2488 - James McCann",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 977K views at last sync.",
+      "note": "Episode release · 978K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "jNOQadUbo-k"
       },
-      "views": 977300,
+      "views": 977979,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2383,12 +2367,12 @@
       "title": "Joe Rogan Experience #2489 - Ryan Bingham",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 495K views at last sync.",
+      "note": "Episode release · 496K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "Jvv1g3QMLL0"
       },
-      "views": 495210,
+      "views": 495813,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2411,12 +2395,12 @@
       "title": "Joe Rogan Experience #2490 - RZA",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 550K views at last sync.",
+      "note": "Episode release · 551K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "D_ZGWj_38uA"
       },
-      "views": 549999,
+      "views": 550625,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2427,12 +2411,12 @@
       "title": "Joe Rogan Experience #2491 - Brian Simpson",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 356K views at last sync.",
+      "note": "Episode release · 357K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "36NpaOg5594"
       },
-      "views": 356399,
+      "views": 356754,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2443,12 +2427,12 @@
       "title": "Joe Rogan Experience #2492 - Ari Shaffir",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 967K views at last sync.",
+      "note": "Episode release · 968K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "znQB0FumtV8"
       },
-      "views": 966959,
+      "views": 967656,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2464,7 +2448,7 @@
         "kind": "yt",
         "id": "wH2Nd8oHixo"
       },
-      "views": 3584424,
+      "views": 3593118,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2491,12 +2475,12 @@
       "title": "Joe Rogan Experience #2494 - Chamath Palihapitiya",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 798K views at last sync.",
+      "note": "Episode release · 799K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "LSihotD-PQA"
       },
-      "views": 798196,
+      "views": 798962,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2507,12 +2491,12 @@
       "title": "JRE MMA Show 178 with Dan Hardy",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 454K views at last sync.",
+      "note": "Episode release · 455K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "A0VImEWSZBQ"
       },
-      "views": 454128,
+      "views": 454586,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2528,7 +2512,7 @@
         "kind": "yt",
         "id": "sKwq7mpBTrY"
       },
-      "views": 2128085,
+      "views": 2132098,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2544,7 +2528,7 @@
         "kind": "yt",
         "id": "6si_KIa9yZM"
       },
-      "views": 1034432,
+      "views": 1035914,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2576,7 +2560,7 @@
         "kind": "yt",
         "id": "1WVv39tLlzg"
       },
-      "views": 719558,
+      "views": 720242,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2587,12 +2571,12 @@
       "title": "Joe Rogan Experience #2497 - Gad Saad",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 669K views at last sync.",
+      "note": "Episode release · 670K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "6jdaXp0iwtw"
       },
-      "views": 668980,
+      "views": 670256,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2603,12 +2587,12 @@
       "title": "Joe Rogan Experience #2499 - Marcus King",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 507K views at last sync.",
+      "note": "Episode release · 508K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "0xMBjMlDY9M"
       },
-      "views": 506630,
+      "views": 507775,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2624,7 +2608,7 @@
         "kind": "yt",
         "id": "KBNfvk5Ali0"
       },
-      "views": 910752,
+      "views": 911375,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2647,12 +2631,12 @@
       "title": "Joe Rogan Experience #2501 - Marc Andreessen",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 983K views at last sync.",
+      "note": "Episode release · 985K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "PHQvb10vKyk"
       },
-      "views": 983407,
+      "views": 984844,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2663,12 +2647,12 @@
       "title": "Joe Rogan Experience #2502 - David Paulides",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 2.8M views at last sync.",
+      "note": "Episode release · 2.9M views at last sync.",
       "video": {
         "kind": "yt",
         "id": "_UduwgMDR-0"
       },
-      "views": 2837350,
+      "views": 2854430,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2684,7 +2668,7 @@
         "kind": "yt",
         "id": "4OKNS5j0lSY"
       },
-      "views": 1691185,
+      "views": 1695106,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2695,12 +2679,12 @@
       "title": "Joe Rogan Experience #2504 - Skylar Grey",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 524K views at last sync.",
+      "note": "Episode release · 525K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "fOTMWZNYg9g"
       },
-      "views": 524128,
+      "views": 525481,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2716,7 +2700,7 @@
         "kind": "yt",
         "id": "0eCTMVherxE"
       },
-      "views": 1308590,
+      "views": 1309989,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2727,12 +2711,12 @@
       "title": "JRE MMA Show #179 with Josh Thompson & \"Big\" John McCarthy",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 580K views at last sync.",
+      "note": "Episode release · 581K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "OMxdrALf8D4"
       },
-      "views": 579994,
+      "views": 580554,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2748,7 +2732,7 @@
         "kind": "yt",
         "id": "GZCmYrgOZU0"
       },
-      "views": 1659166,
+      "views": 1666290,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2764,7 +2748,7 @@
         "kind": "yt",
         "id": "51ds7IU7ZL8"
       },
-      "views": 1487088,
+      "views": 1490318,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2791,12 +2775,12 @@
       "title": "JRE MMA Show #180 with Daniel Rodriguez",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 414K views at last sync.",
+      "note": "Episode release · 415K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "0CrBPwS8OqU"
       },
-      "views": 414201,
+      "views": 414674,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2812,7 +2796,7 @@
         "kind": "yt",
         "id": "pb3lyT4T6Hk"
       },
-      "views": 404862,
+      "views": 405249,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2823,12 +2807,12 @@
       "title": "Joe Rogan Experience #2509 - Caleb Hammer",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 3.7M views at last sync.",
+      "note": "Episode release · 3.8M views at last sync.",
       "video": {
         "kind": "yt",
         "id": "wt2sI8OdmWs"
       },
-      "views": 3735610,
+      "views": 3755678,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2839,12 +2823,12 @@
       "title": "Joe Rogan Experience #2510 - Devon Larratt",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 2.9M views at last sync.",
+      "note": "Episode release · 3M views at last sync.",
       "video": {
         "kind": "yt",
         "id": "ZmejzHXudq0"
       },
-      "views": 2943528,
+      "views": 2963211,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2867,12 +2851,12 @@
       "title": "Joe Rogan Experience #2511 - Terry Bradshaw",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 570K views at last sync.",
+      "note": "Episode release · 571K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "wyceothkkzQ"
       },
-      "views": 570099,
+      "views": 570772,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2883,12 +2867,12 @@
       "title": "Joe Rogan Experience #2512 - Joey Diaz",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 3.2M views at last sync.",
+      "note": "Episode release · 3.3M views at last sync.",
       "video": {
         "kind": "yt",
         "id": "oD13_3D8QY0"
       },
-      "views": 3241263,
+      "views": 3256931,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2904,7 +2888,7 @@
         "kind": "yt",
         "id": "4Uk0_1yqdJo"
       },
-      "views": 1098181,
+      "views": 1104166,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2915,12 +2899,12 @@
       "title": "Joe Rogan Experience #2514 - Cameron Hanes",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 723K views at last sync.",
+      "note": "Episode release · 724K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "bKceG6tQc0M"
       },
-      "views": 723298,
+      "views": 724492,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2948,7 +2932,7 @@
         "kind": "yt",
         "id": "OVXli9YkY0o"
       },
-      "views": 1309887,
+      "views": 1316446,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2964,7 +2948,7 @@
         "kind": "yt",
         "id": "J-CQjxKFb_0"
       },
-      "views": 553543,
+      "views": 554451,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -2992,7 +2976,7 @@
         "kind": "yt",
         "id": "Ag7GEsPQhFo"
       },
-      "views": 3375638,
+      "views": 3391344,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3008,7 +2992,7 @@
         "kind": "yt",
         "id": "uYO2fJ-M_M4"
       },
-      "views": 1573459,
+      "views": 1581907,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3024,7 +3008,7 @@
         "kind": "yt",
         "id": "wTdqkloiSvk"
       },
-      "views": 3619281,
+      "views": 3637112,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3035,12 +3019,12 @@
       "title": "Joe Rogan Experience #2519 - Scott Eastwood",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 676K views at last sync.",
+      "note": "Episode release · 677K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "ZDeqcSgotuw"
       },
-      "views": 676023,
+      "views": 677044,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3063,12 +3047,12 @@
       "title": "Joe Rogan Experience #2520 - Tommy Lee",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 989K views at last sync.",
+      "note": "Episode release · 992K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "q8HRqmkEKWw"
       },
-      "views": 989425,
+      "views": 992112,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3079,12 +3063,12 @@
       "title": "Joe Rogan Experience #2521 - Aravind Srinivas",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 871K views at last sync.",
+      "note": "Episode release · 874K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "fOLu-pWQssQ"
       },
-      "views": 871469,
+      "views": 873627,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3100,7 +3084,7 @@
         "kind": "yt",
         "id": "inrnVpGsKN4"
       },
-      "views": 1879341,
+      "views": 1885679,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3111,12 +3095,12 @@
       "title": "Joe Rogan Experience #2523 - Ali Siddiq",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 573K views at last sync.",
+      "note": "Episode release · 575K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "uk2h9oBZctc"
       },
-      "views": 573360,
+      "views": 574877,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3132,7 +3116,7 @@
         "kind": "yt",
         "id": "k29cMrVtVXY"
       },
-      "views": 2936624,
+      "views": 2942360,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3143,12 +3127,12 @@
       "title": "JRE MMA Show #182 - Protect Ya Neck",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 607K views at last sync.",
+      "note": "Episode release · 608K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "X6jH7wMaDxk"
       },
-      "views": 607128,
+      "views": 607891,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3175,12 +3159,12 @@
       "title": "Joe Rogan Experience #2525 - Nick Bostrom",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 713K views at last sync.",
+      "note": "Episode release · 715K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "8qTZLqY-cnI"
       },
-      "views": 712648,
+      "views": 715004,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3196,7 +3180,7 @@
         "kind": "yt",
         "id": "vtxyvD58eDg"
       },
-      "views": 3709668,
+      "views": 3719701,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3212,7 +3196,7 @@
         "kind": "yt",
         "id": "rTKu9wxEFFo"
       },
-      "views": 1928019,
+      "views": 1937092,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3244,7 +3228,7 @@
         "kind": "yt",
         "id": "wq0o8pFz_gc"
       },
-      "views": 1796013,
+      "views": 1807156,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3255,12 +3239,12 @@
       "title": "Joe Rogan Experience #2529 - Zach Bush",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 839K views at last sync.",
+      "note": "Episode release · 845K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "Xq2aJpDHIio"
       },
-      "views": 838611,
+      "views": 844564,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3276,7 +3260,7 @@
         "kind": "yt",
         "id": "uob3BtMixuo"
       },
-      "views": 2387801,
+      "views": 2408745,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3299,12 +3283,12 @@
       "title": "Joe Rogan Experience #2531 - Forrest Galante",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 2.1M views at last sync.",
+      "note": "Episode release · 2.2M views at last sync.",
       "video": {
         "kind": "yt",
         "id": "EvnLN8WETlM"
       },
-      "views": 2139063,
+      "views": 2159894,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3315,12 +3299,12 @@
       "title": "Joe Rogan Experience #2532 - Tim Robbins",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 848K views at last sync.",
+      "note": "Episode release · 850K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "ur_-7JONZlY"
       },
-      "views": 848052,
+      "views": 850076,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3331,12 +3315,12 @@
       "title": "Joe Rogan Experience #2533 - Diana Pasulka",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 946K views at last sync.",
+      "note": "Episode release · 951K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "wo6K0Bav3K0"
       },
-      "views": 946485,
+      "views": 951228,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3352,7 +3336,7 @@
         "kind": "yt",
         "id": "ZACmIrFbfPU"
       },
-      "views": 1084783,
+      "views": 1093934,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3379,12 +3363,12 @@
       "title": "JRE MMA Show #183 with Rico Verhoeven",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 497K views at last sync.",
+      "note": "Episode release · 499K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "y9KNLlRE2HQ"
       },
-      "views": 497296,
+      "views": 499051,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3400,7 +3384,7 @@
         "kind": "yt",
         "id": "6SxEj1cujQE"
       },
-      "views": 1814370,
+      "views": 1819624,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3411,12 +3395,12 @@
       "title": "Joe Rogan Experience #2536 - Eric Goode & Jeremy McBride",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 612K views at last sync.",
+      "note": "Episode release · 613K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "O52aLL8ycGU"
       },
-      "views": 611693,
+      "views": 613143,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3427,12 +3411,12 @@
       "title": "Joe Rogan Experience #2537 - David Sinclair",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 943K views at last sync.",
+      "note": "Episode release · 947K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "hxid7FofhMw"
       },
-      "views": 943205,
+      "views": 946664,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3455,12 +3439,12 @@
       "title": "JRE MMA Show #184 with Aljamain Sterling",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 357K views at last sync.",
+      "note": "Episode release · 359K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "xEBeQH39CZI"
       },
-      "views": 356606,
+      "views": 358773,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3471,12 +3455,12 @@
       "title": "Joe Rogan Experience #2538 - Joe DeRosa",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 600K views at last sync.",
+      "note": "Episode release · 606K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "pCH-R3L6QTc"
       },
-      "views": 599720,
+      "views": 605893,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3492,7 +3476,7 @@
         "kind": "yt",
         "id": "OBH4F5a6zAA"
       },
-      "views": 2915198,
+      "views": 2931956,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3508,7 +3492,7 @@
         "kind": "yt",
         "id": "9iENvZ2siTo"
       },
-      "views": 1185099,
+      "views": 1193138,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2025-01-01"
@@ -3535,12 +3519,12 @@
       "title": "Joe Rogan Experience #2541 - Thomas Campbell",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 898K views at last sync.",
+      "note": "Episode release · 904K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "v2oBLSDCZaY"
       },
-      "views": 897541,
+      "views": 904113,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-08-20"
@@ -3551,12 +3535,12 @@
       "title": "Joe Rogan Experience #2542 - Steve Hilton",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 698K views at last sync.",
+      "note": "Episode release · 702K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "BYVQfLi6wMA"
       },
-      "views": 697712,
+      "views": 702244,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-08-20"
@@ -3572,7 +3556,7 @@
         "kind": "yt",
         "id": "fddF7pRu9Fs"
       },
-      "views": 3082925,
+      "views": 3117882,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-08-24"
@@ -3588,7 +3572,7 @@
         "kind": "yt",
         "id": "vh8FkZaQ06I"
       },
-      "views": 1661959,
+      "views": 1672042,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-08-24"
@@ -3620,7 +3604,7 @@
         "kind": "yt",
         "id": "33Fc_mLqY90"
       },
-      "views": 1963747,
+      "views": 1987473,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-08-27"
@@ -3631,12 +3615,12 @@
       "title": "Joe Rogan Experience #2546 - Michael Button",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 1.5M views at last sync.",
+      "note": "Episode release · 1.6M views at last sync.",
       "video": {
         "kind": "yt",
         "id": "rnt0wEc9YmI"
       },
-      "views": 1538893,
+      "views": 1556193,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-08-27"
@@ -3652,7 +3636,7 @@
         "kind": "yt",
         "id": "EmgKSK-YMOU"
       },
-      "views": 1603895,
+      "views": 1610399,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-08-27"
@@ -3679,12 +3663,12 @@
       "title": "Joe Rogan Experience #2548 - Brian Simpson",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 882K views at last sync.",
+      "note": "Episode release · 885K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "x04pr4QLl7o"
       },
-      "views": 882333,
+      "views": 885027,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-09-03"
@@ -3695,12 +3679,12 @@
       "title": "JRE MMA Show #185 with Ethyn Ewing",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 841K views at last sync.",
+      "note": "Episode release · 845K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "efwqfxt717Q"
       },
-      "views": 841268,
+      "views": 844949,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-09-03"
@@ -3716,7 +3700,7 @@
         "kind": "yt",
         "id": "t6Jrww8kG24"
       },
-      "views": 1343759,
+      "views": 1349653,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-09-07"
@@ -3748,7 +3732,7 @@
         "kind": "yt",
         "id": "BAhcDwMGKYU"
       },
-      "views": 1004070,
+      "views": 1009340,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-09-10"
@@ -3764,7 +3748,7 @@
         "kind": "yt",
         "id": "hSQ1iVqEZO4"
       },
-      "views": 2205469,
+      "views": 2232026,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-09-10"
@@ -3780,7 +3764,7 @@
         "kind": "yt",
         "id": "Jw2lg96Wl1o"
       },
-      "views": 1210317,
+      "views": 1217738,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-09-14"
@@ -3812,7 +3796,7 @@
         "kind": "yt",
         "id": "KIY0np5KDfE"
       },
-      "views": 1863477,
+      "views": 1895048,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-09-17"
@@ -3828,7 +3812,7 @@
         "kind": "yt",
         "id": "0MXllsmXWus"
       },
-      "views": 1089017,
+      "views": 1103483,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-09-17"
@@ -3844,7 +3828,7 @@
         "kind": "yt",
         "id": "J3SIbt2s28Y"
       },
-      "views": 1559434,
+      "views": 1578038,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-09-17"
@@ -3871,12 +3855,12 @@
       "title": "Joe Rogan Experience #2556 - Siddharth Kara",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 907K views at last sync.",
+      "note": "Episode release · 922K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "1F0hz8mEHIY"
       },
-      "views": 907404,
+      "views": 922422,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-09-24"
@@ -3887,12 +3871,12 @@
       "title": "Joe Rogan Experience #2557 - Yakov Smirnoff",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 751K views at last sync.",
+      "note": "Episode release · 762K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "w6r1O5Udn0c"
       },
-      "views": 751368,
+      "views": 762197,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-09-24"
@@ -3903,12 +3887,12 @@
       "title": "Joe Rogan Experience #2558 - Tyler Engle",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 1.5M views at last sync.",
+      "note": "Episode release · 1.6M views at last sync.",
       "video": {
         "kind": "yt",
         "id": "ruVJE9po3-U"
       },
-      "views": 1519225,
+      "views": 1589820,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-09-28"
@@ -3931,12 +3915,12 @@
       "title": "Joe Rogan Experience #2559 - Sam Morril",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 937K views at last sync.",
+      "note": "Episode release · 975K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "FaGp61HQnBw"
       },
-      "views": 937390,
+      "views": 975330,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-10-01"
@@ -3947,12 +3931,12 @@
       "title": "Joe Rogan Experience #2560 - David Grusch",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 3.2M views at last sync.",
+      "note": "Episode release · 3.5M views at last sync.",
       "video": {
         "kind": "yt",
         "id": "dYPXINFcvmI"
       },
-      "views": 3198058,
+      "views": 3542634,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-10-01"
@@ -3968,7 +3952,7 @@
         "kind": "yt",
         "id": "n4fDgjTkY40"
       },
-      "views": 1075198,
+      "views": 1124898,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-10-05"
@@ -3995,12 +3979,12 @@
       "title": "Joe Rogan Experience #2561 - LL Cool J",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 834K views at last sync.",
+      "note": "Episode release · 1.2M views at last sync.",
       "video": {
         "kind": "yt",
         "id": "prSEP6gvGH0"
       },
-      "views": 834461,
+      "views": 1217727,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-10-08"
@@ -4011,15 +3995,31 @@
       "title": "Joe Rogan Experience #2562 - Dan McClellan",
       "loc": "",
       "type": "podcast",
-      "note": "Episode release · 491K views at last sync.",
+      "note": "Episode release · 896K views at last sync.",
       "video": {
         "kind": "yt",
         "id": "GMwihA5jnhY"
       },
-      "views": 491228,
+      "views": 895690,
       "ticket": null,
       "flag": "auto",
       "firstSeen": "2026-10-08"
+    },
+    {
+      "src": "youtube:cLm9Vu2iNQU",
+      "date": "2026-10-08",
+      "title": "Joe Rogan Experience #2563 - Dan Richards",
+      "loc": "",
+      "type": "podcast",
+      "note": "Episode release · 1.3M views at last sync.",
+      "video": {
+        "kind": "yt",
+        "id": "cLm9Vu2iNQU"
+      },
+      "views": 1348135,
+      "ticket": null,
+      "flag": "auto",
+      "firstSeen": "2026-10-12"
     },
     {
       "src": "wikipedia:ufc-fight-night-allen-vs-duncan",
@@ -4145,8 +4145,8 @@
   "channel": {
     "title": "PowerfulJRE",
     "subscribers": 21100000,
-    "totalViews": 6708423603,
-    "videos": 3662,
-    "fetchedAt": "2026-10-08T13:31:11.214Z"
+    "totalViews": 6715017204,
+    "videos": 3663,
+    "fetchedAt": "2026-10-12T15:28:01.638Z"
   }
 }
